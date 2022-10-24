@@ -31,10 +31,10 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281517621088']
-global.ownernomer = "6281517621088"
-global.premium = ['6281517621088']
-global.packname = 'NoxyBotz'
+global.owner = ['6281320366914']
+global.ownernomer = "6288292052372"
+global.premium = ['6281320366914']
+global.packname = 'LiffBotz'
 global.author = 'By '
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
